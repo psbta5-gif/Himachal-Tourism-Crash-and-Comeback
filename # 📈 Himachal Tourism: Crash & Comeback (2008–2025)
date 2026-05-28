@@ -1,0 +1,81 @@
+# 📈 Himachal Tourism: Crash & Comeback (2008–2025)
+
+**Project 3 of my Business Analytics journey**
+
+In this project I analyzed **18 years** of real government tourism data for
+**Himachal Pradesh, India** (2008–2025) using Microsoft Excel. The goal was to
+track long-term trends and measure the impact of the COVID-19 pandemic.
+
+---
+
+## 🎯 Objective
+
+To understand how tourist arrivals in Himachal Pradesh changed over 18 years,
+measure the COVID-19 crash and recovery, and give data-driven recommendations.
+
+---
+
+## 📂 The Data
+
+**Source:** Himachal Pradesh Tourism Department — yearly tourist arrival
+estimates, 2008–2025. *Total Tourists includes domestic, foreign and religious
+tourists, as per the department's published figures.*
+
+---
+
+## 🛠️ Tools & Skills Used
+
+- **Microsoft Excel** — formulas, charts
+- **Year-on-year Growth %** — ((New − Old) ÷ Old)
+- **Descriptive statistics** — Mean, Median, Standard Deviation, MAX, MIN
+- **Correlation (CORREL)** — Indian vs Foreign; Year vs Total
+- **XLOOKUP** — quick year lookup tool
+- **Data storytelling**
+
+---
+
+## 📈 Key Findings
+
+| Measure | Result |
+|---------|--------|
+| **2020 growth (COVID year)** | −81% (the lowest year) |
+| **2022 growth (recovery)** | +168% |
+| **Peak year** | 2017 (~196 lakh tourists) |
+| **Correlation: Year vs Total** | 0.05 (almost no time trend) |
+| **Correlation: Indian vs Foreign** | 0.41 (weak positive) |
+
+### 💡 The story
+Tourist arrivals grew steadily to a peak in **2017 (~196 lakh)**. Then
+**COVID-19 cut arrivals by 81% in 2020** — the lowest in the whole period.
+Recovery was fast: a **+168% jump in 2022**, returning close to pre-COVID
+levels by 2024. The near-zero Year-vs-Total correlation (0.05) shows there is
+**no steady long-term trend** — the pandemic broke the pattern.
+
+---
+
+## ✅ Recommendations
+
+1. **Build crisis resilience** — a single shock erased 80%+ of arrivals;
+   emergency plans and flexible costs are essential.
+2. **Reduce seasonal & yearly volatility** — promote off-season adventure and
+   cultural tourism to steady revenue.
+3. **Diversify beyond Manali & Shimla** — spread visitors to lesser-known
+   districts.
+4. **Grow high-value foreign tourism** — the foreign share stays tiny; targeted
+   global marketing can add resilient, higher-spend visitors.
+
+---
+
+## 🖼️ Project Infographic
+
+![Himachal Tourism Crash and Comeback 2008-2025](project3_poster.png)
+
+---
+
+## 👤 About Me
+
+I am a teacher and researcher from India building a career in **Business
+Analytics**, with a focus on **tourism and hospitality analytics**. I am
+learning data analysis step by step and sharing my journey openly.
+
+🔗 Connect with me on LinkedIn: *(www.linkedin.com/in/dr-pankaj-sharma-75809b1b)*
